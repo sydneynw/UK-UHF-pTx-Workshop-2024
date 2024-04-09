@@ -1,7 +1,7 @@
 # UK-UHF-pTx-Workshop-2024
-Building upon the momentum of the German Ultrahigh Field Imaging (GUFI) Network’s pTx Workshop hosted in Tübingen in 2023[^1], this workshop will once again bring together experts on the topic of parallel transmission (pTx) to discuss latest advances in our field.
+Building upon the momentum of the German Ultrahigh Field Imaging (GUFI) Network’s pTx Workshop hosted in Tübingen in 2023[^*], this workshop will once again bring together experts on the topic of parallel transmission (pTx) to discuss latest advances in our field.
 
-This workshop is being organized by a group of pTx users from the Universities of Glasgow, Oxford, and Cambridge, on behalf of the UK 7T Network. It will be hosted at the [University of Glasgow Advanced Research Centre (ARC)](https://www.gla.ac.uk/research/arc/) on June 10-11, 2024. Registration will also be open to pTx researchers outside of the UK until workshop capacity (~100) is reached. 
+This workshop is being organized by a group of pTx users from the Universities of Glasgow, Oxford, and Cambridge, on behalf of the UK 7T Network. It will be hosted at the [University of Glasgow Advanced Research Centre (ARC)](https://www.gla.ac.uk/research/arc/){:target="_blank"} on June 10-11, 2024. Registration will also be open to pTx researchers outside of the UK until workshop capacity (~100) is reached. 
 
 The workshop schedule is currently being finalized, but will contain a mix of invited speaker, group discussions, and proferred talks from attendees. Three main themed sessions will take place on the second day:
 1. pTx safety
@@ -23,10 +23,10 @@ _Registration will close the night of Sunday, May 26th to provide accurate numbe
 ## Sponsors
 
 We are humbled by the generous support from our sponsors, without whom this event would not be possible:
-- [Siemens Healthcare UK](https://www.siemens-healthineers.com/en-uk)
-- [MR CoilTech, Ltd](https://www.mr-coiltech.co.uk/)
-- [The University of Glasgow Centre for Excellence in Trials Collaboration (CETC)](https://www.gla.ac.uk/colleges/mvls/researchinnovationengagementsupport/cetc/)
+- [Siemens Healthcare UK](https://www.siemens-healthineers.com/en-uk){:target="_blank"}
+- [MR CoilTech, Ltd](https://www.mr-coiltech.co.uk/){:target="_blank"}
+- [The University of Glasgow Centre for Excellence in Trials Collaboration (CETC)](https://www.gla.ac.uk/colleges/mvls/researchinnovationengagementsupport/cetc/){:target="_blank"}
 
 
-[^1]:we would also like to extend our many thanks to [Dario Bosch](https://github.com/dabosch) and the rest of the group at MPI Tübingen for beginning this workshop idea and for the nice Github pages inspiration! 
+[^*]:we would also like to extend our many thanks to [Dario Bosch](https://github.com/dabosch){:target="_blank"} and the rest of the group at MPI Tübingen for beginning this workshop idea and for the nice Github pages inspiration! 
 
