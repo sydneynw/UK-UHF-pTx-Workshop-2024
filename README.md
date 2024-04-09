@@ -17,7 +17,8 @@ Registration for the workshop is free and includes catered coffee breaks and lun
 _Registration will close the night of Sunday, May 26th to provide accurate numbers to event services for catering. Please endeavor to register as soon as possible and before capacity is reached_
 
 ## Additional Info
-
+- Schedule
+- Travel & Accommodation
 
 
 
