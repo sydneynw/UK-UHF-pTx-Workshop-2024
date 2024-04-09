@@ -14,5 +14,5 @@ Registration for the workshop is free and includes catered coffee breaks and lun
 
 
 
-[^1]:we would like to extend our many thanks to Dario Bosch and the rest of the group at MPI Tübingen for beginning this workshop idea and for the nice Github pages inspiration! 
-<span style="font-size:0.5em;">*we would like to extend our many thanks to Dario Bosch and the rest of the group at MPI Tübingen for beginning this workshop idea and for the nice Github pages inspiration! </span>
+[^1]:we would like to extend our many thanks to [Dario Bosch](https://github.com/dabosch) and the rest of the group at MPI Tübingen for beginning this workshop idea and for the nice Github pages inspiration! 
+
