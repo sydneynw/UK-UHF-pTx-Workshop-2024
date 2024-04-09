@@ -14,7 +14,10 @@ Please register for the workshop and find further information at the links below
 
 Registration for the workshop is free and includes catered coffee breaks and lunch. There is an optional social event on the evening of June 10th that is being offered at a subsized cost for £25 and includes a three-course meal with a drink and a live-band Ceilidh (pronounced "kay-lee", traditional Scottish social gathering). Workshop and social event registration are both found through the following link:
 
+_Registration will close the night of Sunday, May 26th to provide accurate numbers to event services for catering. Please endeavor to register as soon as possible and before capacity is reached_
+
 ## Additional Info
+
 
 
 
