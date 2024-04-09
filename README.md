@@ -18,7 +18,7 @@ _Registration will close the night of Sunday, May 26th to provide accurate numbe
 
 ## Additional Event Info
 - [Schedule](schedule.md)
-- Travel & Accommodation
+- [Travel & Accommodation](travel.md)
 
 ## Sponsors
 
