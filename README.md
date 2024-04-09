@@ -16,12 +16,17 @@ Registration for the workshop is free and includes catered coffee breaks and lun
 
 _Registration will close the night of Sunday, May 26th to provide accurate numbers to event services for catering. Please endeavor to register as soon as possible and before capacity is reached_
 
-## Additional Info
+## Additional Event Info
 - Schedule
 - Travel & Accommodation
 
+## Sponsors
+
+We are humbled by the generous support from our sponsors, without whom this event would not be possible:
+- [Siemens Healthcare UK](https://www.siemens-healthineers.com/en-uk)
+- [MR CoilTech, Ltd](https://www.mr-coiltech.co.uk/)
+- [The University of Glasgow Centre for Excellence in Trials Collaboration (CETC)](https://www.gla.ac.uk/colleges/mvls/researchinnovationengagementsupport/cetc/)
 
 
-
-[^1]:we would like to extend our many thanks to [Dario Bosch](https://github.com/dabosch) and the rest of the group at MPI Tübingen for beginning this workshop idea and for the nice Github pages inspiration! 
+[^1]:we would also like to extend our many thanks to [Dario Bosch](https://github.com/dabosch) and the rest of the group at MPI Tübingen for beginning this workshop idea and for the nice Github pages inspiration! 
 
