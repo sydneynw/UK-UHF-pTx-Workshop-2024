@@ -10,6 +10,8 @@ Glasgow Airport is about 15 minutes from the City Centre or West End of Glasgow 
 
 # Travel to the ARC, University of Glasgow
 The workshop is hosted at the Advanced Research Centre (ARC) in the heart of Glasgow's West End:
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[https://www.openstreetmap.org/export/embed.html?bbox=9.054925739765169%2C48.534677302736114%2C9.060923159122469%2C48.53693818849164&amp;layer=mapnik&amp;marker=48.53580775823459%2C9.057924449443817](https://maps.app.goo.gl/8zP3oSSwTL1cAa31A)" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.53581&amp;mlon=9.05792#map=19/48.53581/9.05792&amp;layers=N">View Larger Map</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[https://maps.app.goo.gl/8zP3oSSwTL1cAa31A](https://maps.app.goo.gl/8zP3oSSwTL1cAa31A)" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.53581&amp;mlon=9.05792#map=19/48.53581/9.05792&amp;layers=N">View Larger Map</a></small>
+
+https://maps.app.goo.gl/8zP3oSSwTL1cAa31A
 
 
