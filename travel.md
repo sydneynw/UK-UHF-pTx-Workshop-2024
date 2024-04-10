@@ -15,9 +15,9 @@ The workshop is hosted at the Advanced Research Centre (ARC) in the heart of Gla
 https://maps.app.goo.gl/8zP3oSSwTL1cAa31A
 
 # Accommodation in Glasgow
-We have secured a small block of rooms in the University Residence Halls, which are an affordable option within easy walking distance of the workshop venue. The rooms are available on a first-come, first-served basis at the following link:
+We have secured a small block of 20 single-occupancy rooms in the University Residence Halls, which are an affordable option within easy walking distance of the workshop venue. The rooms are available for 1-2 nights beginning on June 10th on a first-come, first-served basis and must be paid for at the time of booking. Residence halls can be  booked at the following link:
 
-[UofG Residence Hall](){:target="_blank"}
+[UofG Residence Hall](https://book.accom.gla.ac.uk/KxBnBLive/Default.aspx){:target="_blank"} ; use promotion code: *ARC2024*
 
-For other prviate accommodation recommendations, the local tourism agency People Make Glasgow [has an online guide](https://peoplemakeglasgow.com/good-to-know/hotels-and-accommodation)){:target="_blank"}. Both the West End and City Centre are convenient. 
+For other private accommodation recommendations, the local tourism agency People Make Glasgow [has an online guide](https://peoplemakeglasgow.com/good-to-know/hotels-and-accommodation){:target="_blank"}.
 
