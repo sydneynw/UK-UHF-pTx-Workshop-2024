@@ -1,5 +1,5 @@
 # Travel to Glasgow
-Where possible, we would encourage registrants to choose a sustainable option to travel to the workshop.
+Where possible, we would encourage registrants to choose the most sustainable option available to them to travel to the workshop.
 ## By train
 There are several direct trains daily from London Euston to Glasgow Central Station. For all UK rail travel bookings, we advise using a site like [The Trainline](https://www.thetrainline.com/){:target="_blank"}.
 ## By automobile
@@ -7,11 +7,17 @@ To-do
 ## By plane
 Glasgow Airport is about 15 minutes from the City Centre or West End of Glasgow and can be reached by the [Airport Express Bus](https://www.glasgowairport.com/to-and-from/bus/){:target="_blank"} or by Taxi/Uber. Edinburgh Airport typically has more international connections and is a [1 hour bus ride](https://www.edinburghairport.com/transport-links/buses-and-coaches/glasgow-bus-links){:target="_blank"}  to Glasgow Buchanan station in the City Centre.
 
-# Travel to the ARC, University of Glasgow
+# Workshop Venue: The ARC, University of Glasgow
 The workshop is hosted at the Advanced Research Centre (ARC) in the heart of Glasgow's West End:
 <embed type="text/html" src="https://maps.app.goo.gl/8zP3oSSwTL1cAa31A" width="500" height="400">
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[https://maps.app.goo.gl/8zP3oSSwTL1cAa31A](https://maps.app.goo.gl/8zP3oSSwTL1cAa31A)" style="border: 1px solid black"></iframe><br/><small><a href="https://maps.app.goo.gl/8zP3oSSwTL1cAa31A;layers=N">View Larger Map</a></small>
 
 https://maps.app.goo.gl/8zP3oSSwTL1cAa31A
 
+# Accommodation in Glasgow
+We have secured a small block of rooms in the University Residence Halls, which are an affordable option within easy walking distance of the workshop venue. The rooms are available on a first-come, first-served basis at the following link:
+
+[UofG Residence Hall](){:target="_blank"}
+
+For other prviate accommodation recommendations, the local tourism agency People Make Glasgow [has an online guide](https://peoplemakeglasgow.com/good-to-know/hotels-and-accommodation)){:target="_blank"}. Both the West End and City Centre are convenient. 
 
