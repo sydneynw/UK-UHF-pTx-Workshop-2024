@@ -9,10 +9,9 @@ Glasgow Airport is about 15 minutes from the City Centre or West End of Glasgow 
 
 # Workshop Venue: The ARC, University of Glasgow
 The workshop is hosted at the Advanced Research Centre (ARC) in the heart of Glasgow's West End:
-<embed type="text/html" src="https://maps.app.goo.gl/8zP3oSSwTL1cAa31A" width="500" height="400">
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[https://maps.app.goo.gl/8zP3oSSwTL1cAa31A](https://maps.app.goo.gl/8zP3oSSwTL1cAa31A)" style="border: 1px solid black"></iframe><br/><small><a href="https://maps.app.goo.gl/8zP3oSSwTL1cAa31A;layers=N">View Larger Map</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/way/779197473" style="border: 1px solid black"></iframe>
 
-https://maps.app.goo.gl/8zP3oSSwTL1cAa31A
+[View in Browser](https://maps.app.goo.gl/8zP3oSSwTL1cAa31A){:target="_blank"}
 
 # Accommodation in Glasgow
 We have secured a small block of 20 single-occupancy rooms in the University Residence Halls, which are an affordable option within easy walking distance of the workshop venue. The rooms are available for 1-2 nights beginning on June 10th on a first-come, first-served basis and must be paid for at the time of booking. Residence halls can be  booked at the following link:
