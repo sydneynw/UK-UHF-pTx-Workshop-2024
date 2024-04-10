@@ -1,4 +1,4 @@
-![image](https://github.com/sydneynw/UK-UHF-pTx-Workshop-2024/assets/12126415/0406d072-6ce9-4797-a2b7-12581a76a569)# Travel to Glasgow
+# Travel to Glasgow
 Where possible, we would encourage registrants to choose a sustainable option to travel to the workshop.
 ## By train
 There are several direct trains daily from London Euston to Glasgow Central Station. For all UK rail travel bookings, we advise using a site like [The Trainline](https://www.thetrainline.com/){:target="_blank"}.
