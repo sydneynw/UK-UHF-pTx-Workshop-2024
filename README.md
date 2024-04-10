@@ -31,6 +31,6 @@ We would also like to extend our many thanks to [Dario Bosch](https://github.com
 
 ## Further Guidance
 
-If you have any additional questions, wish to offer suggestions, or have any special accommodation requirements, please contact ‹a href="mailto: sydney.williams@glasgow.ac.uk" ›Sydney Williams</a>).
+If you have any additional questions, wish to offer suggestions, or have any special accommodation requirements, please contact [Sydney Williams](mailto:sydney.williams@glasgow.ac.uk).
 
 
