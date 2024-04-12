@@ -13,7 +13,9 @@ Please register for the workshop and find further information at the links below
 
 ## Registration
 
-Registration for the workshop is free and includes catered coffee breaks and lunch. There is an optional social event on the evening of June 10th that is being offered at a subsized cost for £25 and includes a three-course meal with a drink and a live-band Ceilidh (pronounced "kay-lee", traditional Scottish social gathering). Workshop and social event registration are both found through the following link:
+Registration for the workshop is free and includes catered coffee breaks and lunch. There is an optional social event on the evening of June 10th that is being offered at a subsized cost for £25 and includes a three-course meal with a drink and a live-band Ceilidh (pronounced "kay-lee", traditional Scottish social gathering). Workshop and social event registration are both found through the following Bookitbee link:
+
+**[Workshop Registration](https://events.bookitbee.com/university-of-glasgow-128/uk-ultra-high-field-ptx-workshop/){:target="_blank"}**
 
 _Registration will close the night of Monday, May 20th to provide accurate numbers to event services for catering. Please endeavor to register as soon as possible before capacity is reached_
 
