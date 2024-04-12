@@ -1,6 +1,8 @@
 # Workshop Venue: The ARC, University of Glasgow
 The workshop is hosted at the Advanced Research Centre (ARC) in the heart of Glasgow's West End:
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/way/779197473" style="border: 1px solid black"></iframe>
+<!--<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/way/779197473" style="border: 1px solid black"></iframe>-->
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2238.4801410577466!2d-4.298170423405875!3d55.87168547312843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4888452fbc615dcf%3A0xd3065691439fc873!2sAdvanced%20Research%20Centre%20(ARC)%2C%20University%20of%20Glasgow!5e0!3m2!1sen!2suk!4v1712909267637!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 [View in Browser](https://maps.app.goo.gl/8zP3oSSwTL1cAa31A){:target="_blank"}
 
