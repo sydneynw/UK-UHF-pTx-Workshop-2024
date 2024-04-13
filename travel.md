@@ -13,7 +13,7 @@ Where possible, we would encourage registrants to choose the most sustainable op
 ## By train
 There are several direct trains daily from London Euston to Glasgow Central Station. For all UK rail travel bookings, we advise using a site like [The Trainline](https://www.thetrainline.com/){:target="_blank"}.
 ## By automobile
-Glasgow is about 7 hours drive from London and is easiest reached from the M6 to the A74(M) coming from the south. The University of Glasgow ARC does not have dedicated parking and the closest parking in the West End is at the [Lilybank Gardens Car Park]{(https://maps.app.goo.gl/Wsxu57oRjYhqCAJp8):target="_blank"} about 10 minutes walk away.
+Glasgow is about 7 hours drive from London and is easiest reached from the M6 to the A74(M) coming from the south. The University of Glasgow ARC does not have dedicated parking and the closest parking in the West End is at the [Lilybank Gardens Car Park](https://maps.app.goo.gl/Wsxu57oRjYhqCAJp8){:target="_blank"} about 10 minutes walk away.
 ## By plane
 Glasgow Airport is about 15 minutes drive from the City Centre or West End of Glasgow and can be reached by the [Airport Express Bus](https://www.glasgowairport.com/to-and-from/bus/){:target="_blank"} that runs from the Buchanan Bus Station or by Taxi/Uber. Edinburgh Airport typically has more international connections and is a [1 hour bus ride](https://www.edinburghairport.com/transport-links/buses-and-coaches/glasgow-bus-links){:target="_blank"}  to Glasgow Buchanan station in the City Centre.
 
