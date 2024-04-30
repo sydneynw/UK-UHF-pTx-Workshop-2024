@@ -27,6 +27,7 @@ _Registration will close the night of Monday, May 20th to provide accurate numbe
 
 We are humbled by the generous support from our sponsors, without whom this event would not be possible:
 - [Siemens Healthcare UK](https://www.siemens-healthineers.com/en-uk){:target="_blank"}
+- [Skope Magnetic Resonance Technlogies](https://skope.swiss/){:target="_blank"}
 - [MR CoilTech, Ltd](https://www.mr-coiltech.co.uk/){:target="_blank"}
 - [The University of Glasgow Centre for Excellence in Trials Collaboration (CETC)](https://www.gla.ac.uk/colleges/mvls/researchinnovationengagementsupport/cetc/){:target="_blank"}
 
