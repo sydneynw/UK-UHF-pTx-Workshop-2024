@@ -5,8 +5,8 @@
 
 | Time | Event |
 | ----------- | ----------- |
-| 9:00-9:45| Registration, Tea & Coffee |
-| 9:45-10:00| Introduction |
+| 9:00-9:45 | Registration, Tea & Coffee |
+| 9:45-10:00 | Introduction |
 | 10:00-12:00 | Proffered Talks Part 1 | 
 | 12:00-12:30 | Talk from Sponsors | 
 | 12:30-13:30 | Lunch | 
@@ -19,12 +19,12 @@
 
 | Time | Event |
 | ----------- | ----------- |
-| 9:00-9:30| Tea & Coffee |
+| 9:00-9:30 | Tea & Coffee |
 | 9:30-11:15 | RF Pulse Design & pTx Sequences | 
-| 11:15-12:15 | Power Pitches | 
-| 12:15-12:30 | Talk from Sponsors | 
-| 12:30-13:30 | Lunch | 
-| 13:30-15:00 | pTx Safety | 
-| 15:00-15:30 | Tea & Coffee | 
-| 15:30-17:00 | 7T User Needs for pTx | 
-| 17:00-17:30 | Final Wrap-up & Adjourn | 
+| 11:15-11:45 | Power Pitches | 
+| 11:45-12:00 | Talk from Sponsors | 
+| 12:00-13:00 | Lunch | 
+| 13:00-14:30 | 7T User Needs for pTx | 
+| 14:30-15:00 | Tea & Coffee | 
+| 15:00-16:30 | pTx Safety | 
+| 16:30-17:00 | Final Wrap-up & Adjourn | 
