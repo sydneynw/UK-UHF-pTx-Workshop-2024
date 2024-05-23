@@ -19,9 +19,8 @@
 
 | Time | Event |
 | ----------- | ----------- |
-| 9:00-9:30 | Tea & Coffee |
-| 9:30-11:15 | RF Pulse Design & pTx Sequences | 
-| 11:15-11:45 | Power Pitches | 
+| 9:30-10:00 | Tea & Coffee |
+| 10:00-11:45 | RF Pulse Design & pTx Sequences | 
 | 11:45-12:00 | Talk from Sponsors | 
 | 12:00-13:00 | Lunch | 
 | 13:00-14:30 | 7T User Needs for pTx | 
