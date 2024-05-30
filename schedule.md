@@ -20,10 +20,10 @@
 | Time | Event |
 | ----------- | ----------- |
 | 9:30-10:00 | Tea & Coffee |
-| 10:00-11:45 | RF Pulse Design & pTx Sequences | 
+| 10:00-11:45 | RF Pulse Design & pTx Sequences: <ul><li>Emre Kopanoglu, Cardiff University</li><li>Tony Stoecker, DZNE Bonn</li><li>Caroline Le Ster, NeuroSpin Paris</li><li>Adam Berrington, Nottingham University</li><li>David Leitao, King's College London</li></ul>|
 | 11:45-12:00 | Talk from Sponsor: Skope Magnetic Resonance Technologies | 
 | 12:00-13:00 | Lunch | 
-| 13:00-14:30 | 7T User Needs for pTx | 
+| 13:00-14:30 | 7T User Needs for pTx : <ul><li>Thomas Cope, Cambridge University</li><li>David Carmichael, King's College London</li><li>Yulia Lazarova, University of Glasgow</li><li>Natasha Fullerton, University of Glasgow</li></ul>|
 | 14:30-15:00 | Tea & Coffee Sponsored by MR CoilTech, Ltd | 
-| 15:00-16:30 | pTx Safety | 
+| 15:00-16:30 | pTx Safety : <ul><li>Ozlem Ipek, King's College London</li><li>John Evans, Cardiff University</li><li>Paul McElhinney, University of Glasgow/MR CoilTech, Ltd</li><li>Sarah Allwood-Spiers, University of Glasgow</li></ul>|
 | 16:30-17:00 | Final Wrap-up & Adjourn | 
