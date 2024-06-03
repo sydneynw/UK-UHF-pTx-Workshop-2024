@@ -5,9 +5,9 @@
 
 | Time | Event |
 | ----------- | ----------- |
-| 9:00-9:45 | Registration, Tea & Coffee |
-| 9:45-10:00 | Introduction |
-| 10:00-12:00 | Proffered Talks Part 1 | 
+| 9:00-10:00 | Registration, Tea & Coffee |
+| 10:00-10:15 | Introduction |
+| 10:15-12:00 | Proffered Talks Part 1 | 
 | 12:00-12:30 | Talk from Sponsor: Siemens Healthineers UK| 
 | 12:30-13:30 | Lunch | 
 | 13:30-15:30 | Proffered Talks Part 2 | 
