@@ -13,7 +13,7 @@
 | 13:30-15:30 | Proffered Talks Part 2 | 
 | 15:30-16:00 | Tea & Coffee Sponsored by MR CoilTech, Ltd | 
 | 16:00-17:00 | Keynote Speaker: Franz Schmitt | 
-| 18:00-22:00 | Social Dinner & Ceilidh, [Sloan's](https://www.sloansglasgow.com/) (Glasgow City Centre) | 
+| 18:00-LATE | Social Dinner & Ceilidh, [Sloan's](https://www.sloansglasgow.com/) (Glasgow City Centre) | 
 
 ## Tuesday, June 11, 2024
 
