@@ -1,5 +1,5 @@
 # Workshop Schedule
-(tentative, still being finalized)
+
 
 ## Monday, June 10, 2024
 
