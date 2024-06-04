@@ -8,7 +8,7 @@
 | 9:00-10:00 | Registration, Tea & Coffee |
 | 10:00-10:15 | Introduction |
 | 10:15-12:00 | Proffered Talks Part 1 | 
-| 12:00-12:30 | Talk from Sponsor: Siemens Healthineers (Iulius Dragonu & Jürgen Herrler)| 
+| 12:00-12:30 | Talk from Sponsor: Siemens Healthineers (Iulius Dragonu, Sarah McElroy, & Jürgen Herrler)| 
 | 12:30-13:30 | Lunch | 
 | 13:30-15:30 | Proffered Talks Part 2 | 
 | 15:30-16:00 | Tea & Coffee Sponsored by MR CoilTech, Ltd | 
