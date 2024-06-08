@@ -12,7 +12,7 @@
 | 12:30-13:30 | Lunch | 
 | 13:30-15:30 | Proffered Talks Part 2: <br/> ·Chris Boesch, University of Bern (Virtual) <br/> ·Belinda Ding, Siemens Healthineers <br/> ·Maxim Terekhov, University Hospital Würzburg <br/> ·Jörg Felder, Forschungszentrum Jülich  <br/> ·Aaron Hess, University of Oxford  <br/> ·Richard Bowtell, University of Nottingham | 
 | 15:30-16:00 | Tea & Coffee Sponsored by MR CoilTech, Ltd | 
-| 16:00-17:00 | Keynote Speaker: Franz Schmitt | 
+| 16:00-17:00 | Keynote Speaker: Franz Schmitt, "Developing the Siemens TX Array and What Came of It" | 
 | 18:00-LATE | Social Dinner & Ceilidh, [Sloan's](https://www.sloansglasgow.com/) (Glasgow City Centre) | 
 
 ## Tuesday, June 11, 2024
@@ -20,7 +20,7 @@
 | Time | Event |
 | ----------- | ----------- |
 | 9:30-10:00 | Tea & Coffee |
-| 10:00-11:45 | RF Pulse Design & pTx Sequences:<br/> ·Emre Kopanoglu, Cardiff University, "Designing Parallel Transmit Pulses for Ultrahigh-field MRI: Considerations around Excitation Homogeneity, Safety, and Computation Time" <br/> ·Tony Stoecker, DZNE Bonn,"Universal Pulses for Structural and Quantitative MRI" <br/> ·Caroline Le Ster, CEA NeuroSpin Paris, "Towards fMRI at 11.7T" <br/> ·Adam Berrington, University of Nottingham, "Regional MR spectroscopy Using a Calibration-Free Approach" <br/> ·David Leitao, King's College London, "pTx Pulse Design When it’s Not Just Water" |  
+| 10:00-11:45 | RF Pulse Design & pTx Sequences:<br/> ·Emre Kopanoglu, Cardiff University, "Designing Parallel Transmit Pulses for Ultrahigh-field MRI: Considerations around Excitation Homogeneity, Safety, and Computation Time" <br/> ·Tony Stoecker, DZNE Bonn,"Universal Pulses for Structural and Quantitative MRI" <br/> ·Caroline Le Ster, CEA NeuroSpin Paris, "Towards fMRI at 11.7T" <br/> ·Adam Berrington, University of Nottingham, "Regional MR spectroscopy Using a Calibration-Free Approach" <br/> ·David Leitão, King's College London, "pTx Pulse Design When it’s Not Just Water" |  
 | 11:45-12:00 | Talk from Sponsor: Skope Magnetic Resonance Technologies (Vencel Somai) | 
 | 12:00-13:00 | Lunch | 
 | 13:00-14:30 | 7T User Needs for pTx:<br/> ·Thomas Cope, University of Cambridge, "pTx 7T for Epilepsy - What Neurologists and Neuroradiologists Need"<br/> ·David Carmichael, King's College London, "Thoughts on the Current Status and Next Steps for PTx Applications in Clinical Neuroscience and Paediatrics" <br/> ·Yulia Lazarova, University of Glasgow, "Needs for 7T fMRI"<br/> ·Natasha Fullerton, University of Glasgow, "Clinical 7T Neuroimaging Applications for pTx"|
