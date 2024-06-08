@@ -7,10 +7,10 @@
 | ----------- | ----------- |
 | 9:00-10:00 | Registration, Tea & Coffee |
 | 10:00-10:15 | Introduction |
-| 10:15-12:00 | Proffered Talks Part 1 <br/> ·David Porter, University of Glasgow <br/> ·Minghao Zhang, University of Cambridge <br/> ·Markus May, Erwin L. Hahn Institute <br/> ·James Kent, University of Oxford <br/> ·Thomas Roos, UMC Utrecht <br/> ·Christoph Aigner, PTB <br/> ·Chris Rodgers, University of Cambridge| 
+| 10:15-12:00 | Proffered Talks Part 1: <br/> ·David Porter, University of Glasgow <br/> ·Minghao Zhang, University of Cambridge <br/> ·Markus May, Erwin L. Hahn Institute <br/> ·James Kent, University of Oxford <br/> ·Thomas Roos, UMC Utrecht <br/> ·Christoph Aigner, PTB <br/> ·Chris Rodgers, University of Cambridge| 
 | 12:00-12:30 | Talk from Sponsor: Siemens Healthineers (Iulius Dragonu, Sarah McElroy, & Jürgen Herrler)| 
 | 12:30-13:30 | Lunch | 
-| 13:30-15:30 | Proffered Talks Part 2 | 
+| 13:30-15:30 | Proffered Talks Part 2: <br/> ·Chris Boesch, University of Bern (Virtual) <br/> ·Belinda Ding, Siemens Healthineers <br/> ·Maxim Terekhov, University Hospital Würzburg <br/> ·Jörg Felder, Forschungszentrum Jülich  <br/> ·Aaron Hess, University of Oxford  <br/> ·Richard Bowtell, University of Nottingham | 
 | 15:30-16:00 | Tea & Coffee Sponsored by MR CoilTech, Ltd | 
 | 16:00-17:00 | Keynote Speaker: Franz Schmitt | 
 | 18:00-LATE | Social Dinner & Ceilidh, [Sloan's](https://www.sloansglasgow.com/) (Glasgow City Centre) | 
